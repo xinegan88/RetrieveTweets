@@ -2,6 +2,8 @@
 ## Retrieve tweets from the Twitter API Recent Search endpoint from your command line.
 
 ### Navigating this Repo
+| File Name           | Description      |
+|:——————————————————— |:—————————————————|
 | RetrieveTweets.py   | a Python file that executes Retrieve Tweets  |
 | requirements.txt    | a .txt file containing required packages and library  |
 | .env                | a file containing your Twitter API credentials   | 
