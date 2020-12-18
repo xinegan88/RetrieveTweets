@@ -6,7 +6,7 @@
 |:——————————————————— |:—————————————————-|
 | RetrieveTweets.py   | a Python file that executes Retrieve Tweets.   |    
 | requirements.txt    | a .txt file containing required packages and library.   |    
-| .env                | a file containing your Twitter API credentials.     |     
+| .env                | a file containing your Twitter API credentials.     |      
 
 ### Instructions for Use
 **Note:** This program requires Twitter API credentials. You must have a Twitter developer account to get API credentials. To learn more about how you can obtain your own API keys, please visit [Obtaining user access tokens (3-legged OAuth) | Docs | Twitter      Developer](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens) 
